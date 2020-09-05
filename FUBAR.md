@@ -3,4 +3,8 @@
 
 "test" -bob
 
+<<<<<<< HEAD
 changeAlpha - bob & alice
+=======
+# Cats smell terrible sometimes
+>>>>>>> 2d2f9eb2e2e8112eb2e03243cc6cac8991c6366a
